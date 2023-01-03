@@ -4,7 +4,6 @@
 
 <div align="left">
 
-<a href="https://linconvinicius.github.io/bikcraft/">Clique aqui para acessar o site!</a><br>
 
 </div>
 
